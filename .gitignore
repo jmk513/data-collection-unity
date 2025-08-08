@@ -10,6 +10,8 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+*.app
+
 *.csproj
 *.sln
 .vsconfig
